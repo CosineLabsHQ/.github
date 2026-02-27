@@ -5,6 +5,6 @@ You don't have to trade your crypto for fiat before spending. 💰💳 Spend wit
 
 Available on Ethereum, BNB Chain, Base, Polygon, Optimism, Arbitrum, and Avalanche
 
-🚀 [https://getcosine.app/download](Download) our self-custody wallet. Support: support@getcosine.app
+🚀 [Download](https://getcosine.app/download) our self-custody wallet. Support: support@getcosine.app
 
 Official website: https://getcosine.app
