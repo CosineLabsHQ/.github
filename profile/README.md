@@ -8,4 +8,5 @@ Available on Ethereum, BNB Chain, Base, Polygon, Optimism, Arbitrum, and Avalanc
 🚀 Download our self-custody wallet [here](https://getcosine.app/download). 
 
 Official website: https://getcosine.app
+
 Support: support@getcosine.app
